@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <!-- Datos generales del canal -->
+        <title>Noticias de Tecnología 2025</title>
+        <link>https://www.ejemplo.com/rss</link>
+        <description>Las noticias más relevantes del mundo tecnológico.</description>
+        <language>es</language>
+        <pubDate>Tue, 28 Jan 2025 09:00:00 +0000</pubDate>
+        <lastBuildDate>Tue, 28 Jan 2025 09:00:00 +0000</lastBuildDate>
+
+
+        <!-- Ítem 1 -->
+        <item>
+            <title>Lanzamiento de un nuevo chip para IA</title>
+            <link>https://www.ejemplo.com/chip-ia</link>
+            <description>El nuevo chip promete revolucionar las capacidades de procesamiento en inteligencia artificial.</description>
+            <pubDate>Mon, 27 Jan 2025 10:00:00 +0000</pubDate>
+            <guid>https://www.ejemplo.com/chip-ia</guid>
+            <category>Tecnología</category>
+        </item>
+
+        <!-- Ítem 2 -->
+        <item>
+            <title>Las startups más innovadoras de 2025</title>
+            <link>https://www.ejemplo.com/startups-2025</link>
+            <description>Un vistazo a las empresas emergentes que están transformando la industria tecnológica.</description>
+            <pubDate>Mon, 27 Jan 2025 08:30:00 +0000</pubDate>
+            <guid>https://www.ejemplo.com/startups-2025</guid>
+            <category>Emprendimiento</category>
+        </item>
+
+        <!-- Ítem 3 -->
+        <item>
+            <title>No hay sobrevivientes tras el choque de un avión con 64 personas a bordo y un helicóptero militar en Washington DC</title>
+            <link>https://www.bbc.com/mundo/articles/cm27lgg8082o</link>
+            <description>Un avión de American Airlines y un helicóptero militar chocaron y cayeron al río Potomac, cerca del Aeropuerto Nacional Ronald Reagan de Washington DC, la noche del miércoles 29 de enero.</description>
+            <pubDate>Fri, 31 Jan 2025 08:58:00 +0000</pubDate>
+            <guid>https://www.bbc.com/mundo/articles/cm27lgg8082o</guid>
+            <category>Actualidad</category>
+            <author>d.ordonez@ejemplo.com</author>
+        </item>
+
+        <!-- Ítem 4 -->
+        <item>
+            <title>Las ventas de vino de Jerez caen un 6,4% en 2024 por el desplome en Reino Unido</title>
+            <link>https://www.diariodejerez.es/economia/ventas-vino-jerez-caen-2024-desplome-reino-unido_0_2003242511.html</link>
+            <description>La bajada del 18% en el mercado británico arrastra a las exportaciones a un descenso del 8,8% con poco más de 13 millones de litros frente a los 11 millones del mercado nacional, que cede un 3,4%.</description>
+            <pubDate>Mon, 27 Jan 2025 13:00:00 +0000</pubDate>
+            <guid>https://www.diariodejerez.es/economia/ventas-vino-jerez-caen-2024-desplome-reino-unido_0_2003242511.html</guid>
+            <category>Economía</category>
+            <author>d.ordonez@ejemplo.com</author>
+        </item>
+
+        <!-- Ítem 5 -->
+        <item>
+            <title>Ebro Foods redobla su apoyo a la excelencia en la investigación científica</title>
+            <link>https://www.diariodejerez.es/economia/ebro-foods-redobla-apoyo-excelencia-investigacion-cientifica_0_2003250015.html</link>
+            <description>Antonio Hernández Callejas anuncia que la compañía que preside ampliará la dotación económica de los premios que convoca con el cicCartuja para fomentar la excelencia investigadora.</description>
+            <pubDate>Mon, 27 Jan 2025 08:30:00 +0000</pubDate>
+            <guid>https://www.diariodejerez.es/economia/ebro-foods-redobla-apoyo-excelencia-investigacion-cientifica_0_2003250015.html</guid>
+            <category>Ciencia</category>
+            <author>d.ordonez@ejemplo.com</author>
+        </item>
+    </channel>
+</rss>
